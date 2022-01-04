@@ -76,3 +76,15 @@ button:hover{
     height: 200px;
     margin-top: 40px;
 }
+aside {
+    float: left;
+    display: flex;
+}
+
+#start-button {
+    display: inline-block;
+    float: none;
+    text-align: center;
+
+
+}

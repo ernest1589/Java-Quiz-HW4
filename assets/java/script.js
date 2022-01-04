@@ -62,6 +62,7 @@ var myQuestions = [
     correctAnswer: "b"
   }
 ];
+
 function buildQuiz(){
 
   var output = [];
@@ -106,7 +107,7 @@ function showResults(){
   var answerContainers = quizContainer.querySelectorAll('.answers');
 
 
-  let numCorrect = 0;
+  var numCorrect = 0;
 
 
   myQuestions.forEach( (currentQuestion, questionNumber) => {
@@ -190,7 +191,7 @@ buildQuiz();
 var previousButton = document.getElementById("previous");
 var nextButton = document.getElementById("next");
 var slides = document.querySelectorAll(".slide");
-let currentSlide = 0;
+var currentSlide = 0;
 
 
 showSlide(currentSlide);
