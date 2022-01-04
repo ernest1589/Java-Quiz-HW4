@@ -15,5 +15,8 @@ https://www.sitepoint.com/simple-javascript-quiz/
 If you followed tutorials, include links to those here as well.
 https://www.youtube.com/watch?v=nCIjHTlztNg
 
-## Tests
-Go the extra mile and write tests for your application. Then provide examples on how to run them here.
+## Links
+This is the Link to open the Web page 
+https://ernest1589.github.io/Java-Quiz-HW4/
+This is the link thaat opens my Github
+https://github.com/ernest1589/Java-Quiz-HW4
